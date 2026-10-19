@@ -9,3 +9,5 @@
 *.swp
 /apps/cadcraft-web/dist/
 /.claude/worktrees/
+config.bat
+node_modules
